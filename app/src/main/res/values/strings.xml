@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TCPDebugTool</string>
+    <string name="action_settings">Settings</string>
+    <string name="connect_server">连接服务器</string>
+    <string name="disconnect_server">断开</string>
+    <string name="ip_address">IP地址</string>
+    <string name="send_message">发送的信息</string>
+    <string name="send">发送</string>
+</resources>
